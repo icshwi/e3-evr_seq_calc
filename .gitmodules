@@ -1,0 +1,4 @@
+[submodule "evr_seq_calc"]
+	path = evr_seq_calc
+	url = https://github.com/icshwi/evr_seq_calc
+	ignore = all
