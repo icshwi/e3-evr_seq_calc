@@ -1,7 +1,7 @@
 #
 EPICS_MODULE_NAME:=evr_seq_calc
 
-EPICS_MODULE_TAG:=v0.9.1
+EPICS_MODULE_TAG:=tags/v0.9.1
 #
 E3_MODULE_VERSION:=v0.9.1
 
