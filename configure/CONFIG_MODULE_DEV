@@ -1,6 +1,6 @@
 #
 EPICS_MODULE_NAME:=evr_seq_calc
-EPICS_MODULE_TAG:=master
+EPICS_MODULE_TAG:=develop
 #
 E3_MODULE_VERSION:=develop
 
